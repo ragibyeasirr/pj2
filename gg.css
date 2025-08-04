@@ -1,0 +1,52 @@
+.sc{
+    width: 35%;
+    padding: 12px;
+    border-color: rgb(214, 147, 22);
+    border-width:3px ;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+.bb{
+    padding:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 35px;
+    margin-top: 5px;
+background-color: orange;
+border-color: orange;
+color: white;
+     border-radius: 5px;
+}
+.sb{
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+   
+
+}
+.card{
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 300px;
+    text-align: center;
+
+   
+}
+.ci{
+    width:100%;
+}
+.pc{
+    margin-left: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    gap:25px;
+    width: 100%;
+}
+.h{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    justify-content: center;
+    
+}
